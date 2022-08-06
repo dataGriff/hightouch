@@ -1,0 +1,6 @@
+name: datagriff
+source: datagriff-ccmo6
+type: table
+tableName: public.customers
+isSchema: false
+primaryKey: customer_id
